@@ -28,11 +28,6 @@
 
 5a. You cannot locate the schema of the address table. Which query would you use to re-create it?
 
-
-Hint: https://dev.mysql.com/doc/refman/5.7/en/show-create-table.html
-
-
-
 6a. Use JOIN to display the first and last names, as well as the address, of each staff member. Use the tables staff and address:
 
 6b. Use JOIN to display the total amount rung up by each staff member in August of 2005. Use tables staff and payment.
